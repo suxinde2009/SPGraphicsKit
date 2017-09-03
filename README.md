@@ -1,2 +1,2 @@
 # SPGraphicsKit
-My personal Graphics Kit.
+My personal iOS Graphics Kit.
